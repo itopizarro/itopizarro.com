@@ -1,0 +1,26 @@
+{
+  "name": "itopizarro.com",
+  "version": "0.0.1",
+  "description": "The ItoPizarro.com site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itopizarro/itopizarro.com.git"
+  },
+  "author": "Ito Pizarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itopizarro/itopizarro.com/issues"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^1.11.0",
+    "gulp-kit": "^0.1.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4"
+  }
+}

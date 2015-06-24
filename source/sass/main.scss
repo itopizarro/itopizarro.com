@@ -1,0 +1,9 @@
+.foo {
+  color: #f00;
+  .bar {
+    color: #baa;
+  }
+  &.baz {
+    color: #bab;
+  }
+}
