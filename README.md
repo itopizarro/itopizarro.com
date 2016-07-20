@@ -1,4 +1,5 @@
 # itopizarro.com
 The ItoPizarro.com site
 
-testing an idea!?
+Expecting to push Dev branch, just changed the shell script
+
