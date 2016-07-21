@@ -1,0 +1,1 @@
+window.log=function(){log.history=log.history||[],log.history.push(arguments),this.console&&console.log(Array.prototype.slice.call(arguments))},require.config({paths:{jquery:"vendor/jquery-2.1.4.min",vendors:"vendor/vendor"}}),require(["app"],function(o){"use strict";o.init()});

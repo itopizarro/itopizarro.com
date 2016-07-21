@@ -1,0 +1,1 @@
+define(["jquery","vendors"],function(n,i){function o(){log("init")}window.App={};window.App;return{init:o}});
